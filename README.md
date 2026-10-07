@@ -121,7 +121,21 @@ The Excel dashboard provides:
 ![Anandi Store Dashboard](dashboard/dashboard.png)
 
 ---
+## Detailed Analysis
 
+### Monthly Sales Analysis
+![Monthly Sales Analysis](screenshots/monthly_sales.png)
+
+### Top 5 States by Sales
+![Top 5 States](screenshots/top_5_states.png)
+
+### Sales Channel Analysis
+![Sales Channel Analysis](screenshots/sales_channels.png)
+
+### Category Sales Analysis
+![Category Sales Analysis](screenshots/category_sales.png)
+
+---
 ## 💡 Key Insights
 
 The detailed findings from the analysis are documented in:

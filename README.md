@@ -130,9 +130,11 @@ The Excel dashboard provides:
 ![Top 5 States](screenshots/top_5_states.png)
 
 ### Sales Channel Analysis
+
 ![Sales Channel Analysis](screenshots/sales_channels.png)
 
 ### Category Sales Analysis
+
 ![Category Sales Analysis](screenshots/category_sales.png)
 
 ---

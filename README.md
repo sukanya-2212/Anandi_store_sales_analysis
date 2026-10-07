@@ -131,11 +131,11 @@ The Excel dashboard provides:
 
 ### Sales Channel Analysis
 
-![Sales Channel Analysis](screenshots/sales_channels.png)
+![Sales Channel Analysis](screenshots/Sales_channels.png)
 
 ### Category Sales Analysis
 
-![Category Sales Analysis](screenshots/category_sales.png)
+![Category Sales Analysis](screenshots/Category_sales.png)
 
 ---
 ## 💡 Key Insights
